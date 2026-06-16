@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+backend/gpay.db
+backend/*.db
+
+node_modules/
+dist/
+.vite/
+
+.env
+.env.local

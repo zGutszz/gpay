@@ -110,11 +110,4 @@ http://localhost:5173
 - Bloqueio de saldo negativo
 - Mensagens de erro amigáveis
 
-## Prints
 
-Adicione aqui prints do projeto rodando:
-
-```text
-/docs/screenshots/login.png
-/docs/screenshots/dashboard.png
-```
